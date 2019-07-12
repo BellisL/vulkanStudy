@@ -1,1 +1,0 @@
-vulkan study and git use.
